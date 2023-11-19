@@ -1,0 +1,5 @@
+### GET todas las consultas
+GET http://localhost:1234/consulta
+### GET Detalle de una consulta segun su ID
+GET http://localhost:1234/consulta/detalle/1
+
